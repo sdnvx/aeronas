@@ -1,0 +1,5 @@
+[package]
+name = "aeronas"
+version = "0.1.0"
+authors = ["Dmitry Sednev <dsedneff@gmail.com>"]
+edition = "2024"
